@@ -1,0 +1,33 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#top-position {
+    padding-top: 10%;
+}
+
+.orange-color {
+    color: tomato;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    padding-left: 5%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+}
